@@ -207,8 +207,6 @@
 <text x="44.148203125" y="58.456696875" size="1.27" layer="25" font="vector" ratio="16" rot="R60">Flash</text>
 <dimension x1="10" y1="-1" x2="85" y2="-1" x3="47.5" y3="-11.2972" textsize="2.54" layer="48" visible="yes"/>
 <dimension x1="10" y1="-1" x2="47.5068" y2="-1.0004" x3="28.754553125" y3="107.23805625" textsize="2.54" layer="48" visible="yes"/>
-<hole x="42.42" y="53" drill="1.8"/>
-<hole x="52.58" y="53" drill="1.8"/>
 <wire x1="0" y1="43" x2="4" y2="39" width="0.254" layer="20" curve="90"/>
 <wire x1="4" y1="39" x2="91" y2="39" width="0.254" layer="20"/>
 <wire x1="91" y1="39" x2="95" y2="43" width="0.254" layer="20" curve="90"/>
