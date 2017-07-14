@@ -222,7 +222,6 @@
 <text x="43.08" y="47.6" size="1.016" layer="25" font="vector" ratio="16" rot="R45">Vbat</text>
 <text x="5.4" y="60.7" size="1.9304" layer="25" font="vector" ratio="16" rot="R90">SHA PROTO</text>
 <text x="40.52" y="47.885734375" size="1.016" layer="25" font="vector" ratio="16" rot="R45">GND</text>
-<text x="50.169790625" y="60.032925" size="1.016" layer="25" font="vector" ratio="16" rot="R90">GND</text>
 <text x="38.61141875" y="55.75" size="1.016" layer="25" font="vector" ratio="16" rot="R45">3V3</text>
 </plain>
 <libraries>
